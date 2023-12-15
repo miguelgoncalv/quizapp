@@ -1,13 +1,13 @@
 This Quiz App is a simple, interactive way to engage with a variety of questions on different topics. It's built with ReactJS and is designed to be user-friendly and informative. Perfect for anyone looking to test their knowledge or learn something new!
 
-Visit the live app: https://brendan-munnelly.github.io/quiz-app
+Visit the live app: https://miguelgoncalv.github.io/quizapp
 Features
 
     Interactive multiple-choice questions
     Instant feedback on answers
     Progression thro
 
-git clone https://github.com/[Your-Username]/quiz-app.git
+git clone https://github.com/miguelgoncalv/quiz-app.git
 cd quiz-app
 
 Install Dependencies
