@@ -7,7 +7,7 @@ Features
     Instant feedback on answers
     Progression thro
 
-git clone https://github.com/miguelgoncalv/quiz-app.git
+git clone https://github.com/miguelgoncalv/quizapp.git
 cd quiz-app
 
 Install Dependencies
